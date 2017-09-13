@@ -1,0 +1,13 @@
+E:\C_Sharp\StoneRest\StoneRest.Monitor\obj\Debug\StoneRest.Monitor.csprojResolveAssemblyReference.cache
+E:\C_Sharp\StoneRest\StoneRest.Monitor\obj\Debug\StoneRest.Monitor.MonitorApp.resources
+E:\C_Sharp\StoneRest\StoneRest.Monitor\obj\Debug\StoneRest.Monitor.Properties.Resources.resources
+E:\C_Sharp\StoneRest\StoneRest.Monitor\obj\Debug\StoneRest.Monitor.csproj.GenerateResource.Cache
+E:\C_Sharp\StoneRest\StoneRest.Monitor\obj\Debug\StoneRest.Monitor.csproj.CoreCompileInputs.cache
+E:\C_Sharp\StoneRest\StoneRest.Monitor\bin\Debug\StoneRest.Monitor.exe.config
+E:\C_Sharp\StoneRest\StoneRest.Monitor\bin\Debug\StoneRest.Monitor.exe
+E:\C_Sharp\StoneRest\StoneRest.Monitor\bin\Debug\StoneRest.Monitor.pdb
+E:\C_Sharp\StoneRest\StoneRest.Monitor\bin\Debug\StoneRestUtil.dll
+E:\C_Sharp\StoneRest\StoneRest.Monitor\bin\Debug\LiteDB.dll
+E:\C_Sharp\StoneRest\StoneRest.Monitor\bin\Debug\StoneRestUtil.pdb
+E:\C_Sharp\StoneRest\StoneRest.Monitor\obj\Debug\StoneRest.Monitor.exe
+E:\C_Sharp\StoneRest\StoneRest.Monitor\obj\Debug\StoneRest.Monitor.pdb

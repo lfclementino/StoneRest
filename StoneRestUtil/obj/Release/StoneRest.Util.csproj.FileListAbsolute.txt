@@ -1,0 +1,7 @@
+E:\C_Sharp\StoneRest\StoneRestUtil\bin\Release\StoneRestUtil.dll
+E:\C_Sharp\StoneRest\StoneRestUtil\bin\Release\StoneRestUtil.pdb
+E:\C_Sharp\StoneRest\StoneRestUtil\bin\Release\LiteDB.dll
+E:\C_Sharp\StoneRest\StoneRestUtil\obj\Release\StoneRest.Util.csprojResolveAssemblyReference.cache
+E:\C_Sharp\StoneRest\StoneRestUtil\obj\Release\StoneRest.Util.csproj.CoreCompileInputs.cache
+E:\C_Sharp\StoneRest\StoneRestUtil\obj\Release\StoneRestUtil.dll
+E:\C_Sharp\StoneRest\StoneRestUtil\obj\Release\StoneRestUtil.pdb
